@@ -2,7 +2,7 @@
 
 Implemented some of RISCV feautures such as: multithreading, time sharing, mutual exclusion, console, semaphores, etc.
 
-In this repository onlz header and source files are included, while project structure and virtual machine can be dowloaded from this web page
+In this repository only header and source files are included, while project structure and virtual machine can be dowloaded from this web page
 
 http://os.etf.bg.ac.rs/OS1/
 
